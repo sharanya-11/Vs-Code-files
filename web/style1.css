@@ -1,0 +1,61 @@
+aside {
+    width: 20px;
+    float: left;
+    height: 100vh;
+    
+  }
+  
+  .menuContainer{
+
+        height: 100vh;
+        width:30%;
+     
+     margin-top:-7%;
+   
+     
+    }
+  
+  .page-content {
+    width: 75%;
+    float: left;
+    background: #f4f5f7;
+  }
+  
+  aside {
+    width: 25%;
+    float: left;
+    height: 100%;
+  }
+  
+  .sidemenu  {
+   height:100%;
+    list-style: none;
+    background:#fafafa;
+    padding-top:20%;
+    align-items:center;
+    
+    
+  }
+
+  .sidemenu li {
+      padding:10%;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    float:left;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+  .text{
+      margin-bottom:50px;
+
+  }

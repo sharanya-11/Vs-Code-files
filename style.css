@@ -1,0 +1,47 @@
+.icons{
+    padding:16px 16px 16px 16px;
+    float:left;
+    border:none;
+    width:auto;
+    color:#fff;
+    
+    outline:0;
+    display:block;
+}
+.box{
+   position:fixed;
+   left:0;
+   height:100%;
+   width:100px;
+   background:#eeeeee;
+   font-size:16px;
+   
+
+}
+.lesson-plan-active{
+    color:black;
+    background-color:rgb(182, 222, 245);
+    text-decoration:none;
+}
+.name{
+font-size:16px;
+font-family:"roboto";
+color:black;
+padding-left:2px;
+text-decoration:none;
+}
+.box2{
+   
+    margin-top:80px;
+    margin-left :100px;
+    width:100%;
+    color:grey;
+    background-color:grey;
+}
+.video-link{
+    margin-left:100px;
+    color:grey;
+    font-size: 16px;
+    margin-top:40px;
+    text-decoration:none;
+}
